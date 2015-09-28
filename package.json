@@ -1,0 +1,11 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "collaborators.js",
+  "author": "Marina Shchukina",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^2.2.2"
+  }
+}
